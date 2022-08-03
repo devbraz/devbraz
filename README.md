@@ -13,17 +13,9 @@ Sobre
 
 #### Top Repositories
 
-
 <a href="https://github.com/devbraz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbraz&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/devbraz/devbraz.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbraz&repo=devbraz.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://www.linkedin.com/in/charlesbraz/>
-  <img align="right" alt=Charles Braz | Twitter" width="21px" src="https://gist.github.com/Cytancy/d1e4a0f0edc874092613ddaef897b2a6.js />
 </a>
