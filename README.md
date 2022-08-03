@@ -10,12 +10,3 @@ Sobre
 
 | <a href="https://github.com/devbraz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devbraz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="devbraz's github stats" /></a> | <a href="https://github.com/devbraz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbraz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-<a href="https://github.com/devbraz/project-lol-react">
-  <img align="center" src="https://github.com/devbraz/project-lol-react/api/pin/?username=devbraz&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/devbraz/devbraz.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbraz&repo=devbraz.github.io&theme=buefy" />
-</a>
