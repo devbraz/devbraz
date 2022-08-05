@@ -1,14 +1,12 @@
 <h1 align='center'>
-  Olá, me chamo Charles Braz!
-  <br/>
-  Seja bem vindo!
+  Olá, me chamo Charles Braz, Seja bem vindo!
 </h1>
 
 <p align='center'>
   Desenvolvedor Front-End
 </p>
 
-### 🌻 Sobre mim:
+### Sobre mim:
 
 <p>
   <em>
@@ -20,18 +18,18 @@
 - 🚀 Estudante da kenzie academy.
 - 📫 Meu email: engcivilbraz@hotmail.com.
 
-### 📊 Metas 2022:
+### Metas 2022:
 
 - 💼 Continuar curso superior em engenharia de software.
 
 - 📈 Adquirir experiência como desenvolvedor e melhorar o inglês.
 
-### ⚡ Tecnologias:
+### Tecnologias:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,ts,redux,styledcomponents,materialui,jest,git,github&perline=4
 )](https://skillicons.dev)
 
-### 📈 Estatísticas:
+### Estatísticas:
 
 | Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
