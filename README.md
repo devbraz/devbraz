@@ -16,7 +16,7 @@
   </em>
 </p>
 
-- 🌱 Ultimos aprendizados: TypeScript, teste Unitário / Integração / E2E, FakeAPI.
+- 🌱 Ultimos aprendizados: TypeScript, teste Unitário / Integração / E2E, desenvolvimento de API.
 - 🚀 Estudante da kenzie academy.
 - 📫 Meu email: engcivilbraz@hotmail.com.
 
