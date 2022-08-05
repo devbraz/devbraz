@@ -61,10 +61,10 @@
 </div>
 <br>
 <p>🧠 
-  <spam style="text-align:'center';font-style:italic;font-size:1.2rem;font-weight:400;">
+  <spam style="text-align:'center';font-style:italic;font-size:1.2rem;font-weight:400;" align='center'>
     "Creio firmemente em uma lei de compensação. As verdadeiras recompensas são sempre proporcionais ao esforço e aos sacrifícios feitos"
   </spam>
-  <spam style="text-align:'center';font-size:1.5rem;font-weight: bold;">
+  <spam style="text-align:'center';font-size:1.5rem;font-weight: bold;" align='center'>
     Nikola Tesla
   </spam>
 </p>
