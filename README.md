@@ -49,6 +49,8 @@
   <em>
     "Creio firmemente em uma lei de compensação. As verdadeiras recompensas são sempre proporcionais ao esforço e aos sacrifícios feitos"
   </em>
+</p>
+<p align='center'> 🧠
   <strong>
     Nikola Tesla
   </strong>
