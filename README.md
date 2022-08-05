@@ -35,7 +35,7 @@
 
 | Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=devbraz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devbraz&layout=compact&theme=buefy&hide_border=true) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=devbraz&show_icons=true&include_all_commits=true&theme=jolly&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devbraz&layout=compact&theme=jolly&hide_border=true) |
 
 💬 Quer me conhecer?
 
