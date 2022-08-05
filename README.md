@@ -1,7 +1,7 @@
 <h1 align='center'>
   Olá, me chamo Charles Braz, 
   <br/>
-  Seja bem vindo!
+  seja bem vindo!
 </h1>
 
 <p align='center'>
