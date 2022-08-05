@@ -50,7 +50,7 @@
 
 | Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](<a href="https://github.com/devbraz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devbraz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="devbraz's github stats" /></a>) | ![Top Languages](<a href="https://github.com/devbraz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbraz&layout=compact&theme=buefy&hide_border=true" /></a>) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=devbraz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devbraz&layout=compact&theme=buefy&hide_border=true) |
 
 💬 Quer me conhecer?
 
@@ -61,19 +61,10 @@
 </div>
 <br>
 <p>🧠 
-  <spam 
-    style="
-      text-align:'center',
-      font-style:italic,
-      font-size:1.2rem,
-      font-weight: 400
-    ">"Creio firmemente em uma lei de compensação. As verdadeiras recompensas são sempre proporcionais ao esforço e aos sacrifícios feitos"
+  <spam style="text-align:'center';font-style:italic;font-size:1.2rem;font-weight:400;">
+    "Creio firmemente em uma lei de compensação. As verdadeiras recompensas são sempre proporcionais ao esforço e aos sacrifícios feitos"
   </spam>
-  <spam 
-    style="
-      text-align:'center',
-      font-size:1.5rem,
-      font-weight: bold
-    ">Nikola Tesla
+  <spam style="text-align:'center';font-size:1.5rem;font-weight: bold;">
+    Nikola Tesla
   </spam>
 </p>
