@@ -45,11 +45,11 @@
   <a href = "mailto:engcivilbraz@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br>
-<p align='center'>🧠 
+<p align='center'>
   <em>
     "Creio firmemente em uma lei de compensação. As verdadeiras recompensas são sempre proporcionais ao esforço e aos sacrifícios feitos"
   </em>
   <strong>
-    Nikola Tesla
+    🧠 Nikola Tesla
   </strong>
 </p>
