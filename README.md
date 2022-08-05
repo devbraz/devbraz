@@ -28,8 +28,6 @@
 
 ### ⚡ Tecnologias:
 
-Estas são algumas das tecnologias e ferramentas que trabalho:
-
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,ts,redux,styledcomponents,materialui,jest,git,github&perline=4
 )](https://skillicons.dev)
 
