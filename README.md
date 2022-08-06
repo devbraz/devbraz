@@ -37,7 +37,8 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=devbraz&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devbraz&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+| Minhas Estatísticas |                                                                                                                                                         |
+| ![github](./profile-3d-contrib/profile-night-rainbow.svg) |
 
 💬 Quer me conhecer?
 
