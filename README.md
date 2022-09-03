@@ -26,7 +26,7 @@
 
 - 📈 Adquirir experiência como desenvolvedor e melhorar o inglês.
 
-## 🔧 Technologies & Tools
+## 🔧 Tecnologias & Ferramentas
 
 |     | Stacks | Description |
 | --- | --- | --- |
