@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 31 anos, sou de Maringá-PR e estou na reta final do meu curso de desenvolvimento front-end pela kenzie academy.
+    Tenho 31 anos, sou de Maringá-PR, finalizei meu curso de desenvolvimento front-end de um ano na kenzie academy, agora mão na massa!
   </em>
 </p>
 
