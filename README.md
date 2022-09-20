@@ -17,14 +17,7 @@
 </p>
 
 - 🌱 Ultimos aprendizados: TypeScript, teste Unitário / Integração / E2E, desenvolvimento de API.
-- 🚀 Estudante da kenzie academy.
 - 📫 Meu email: engcivilbraz@hotmail.com.
-
-### Metas 2022:
-
-- 💼 Continuar curso superior em engenharia de software.
-
-- 📈 Adquirir experiência como desenvolvedor e melhorar o inglês.
 
 ## 🔧 Tecnologias & Ferramentas
 
