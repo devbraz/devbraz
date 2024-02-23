@@ -16,8 +16,7 @@
   </em>
 </p>
 
-- 🌱 Ultimos aprendizados: TypeScript, teste Unitário / Integração / E2E, desenvolvimento de API.
-- 📫 Meu email: engcivilbraz@hotmail.com.
+- 📫 Meu email: contatodevbraz@gmail.com.
 
 ## 🔧 Tecnologias & Ferramentas
 
